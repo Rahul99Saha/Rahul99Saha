@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Rahul Saha</h1>
+<h1 align="center">Hi <img width="50" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Rahul Saha</h1>
+
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
