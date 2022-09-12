@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Saha</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://user-images.githubusercontent.com/97524553/189651945-6d71f995-0907-49f7-ae94-d1f798300cd1.png)](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif)">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
 - 👯 I’m looking to collaborate on **open source**
-- 📫 How to reach me **https://www.linkedin.com/in/rahul-saha-972252229/**
+- 📫 How to reach me **rahul.rs99.saha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
