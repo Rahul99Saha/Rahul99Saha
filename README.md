@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+<br>
 
 - 👯 I’m looking to collaborate on **open source**
 - 📫 How to reach me **rahul.rs99.saha@gmail.com**
