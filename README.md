@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Saha</h1>
-<h3 align="center">A Passionate Computer Science Student from India</h3>
+<h3 align="center">A Passionate Technology Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <br>
 
